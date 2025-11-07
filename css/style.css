@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+  gap: 1rem;
+  background-color: #F3F4F6;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.produtos {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.card {
+  width: 14rem;
+}
+
+img {
+  background-color: #fafafa;
+}
+
+button {
+  width: 65%;
+}
